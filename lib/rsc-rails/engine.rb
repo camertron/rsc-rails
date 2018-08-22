@@ -1,8 +1,6 @@
 require 'rails'
 require 'css-rewrite'
 
-require 'pry-byebug'
-
 module RscRails
   class Engine < ::Rails::Engine
     isolate_namespace RscRails
