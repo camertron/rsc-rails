@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "reasonably-simple-computer": "^1.0.1"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
